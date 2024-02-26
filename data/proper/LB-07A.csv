@@ -1,0 +1,425 @@
+depth,density,mag_suscep,scaler_tmi,total_gamma,caliper,lithology
+333,2.396,,,,,polymict lithic breccia
+333.5,2.409,,,,,polymict lithic breccia
+334,2.423,,,,,polymict lithic breccia
+334.5,2.436,,,,,polymict lithic breccia
+335,2.424,1.147,,,,polymict lithic breccia
+335.5,2.411,1.132,,,,polymict lithic breccia
+336,2.399,1.116,,,,polymict lithic breccia
+336.5,2.359,1.101,,,,polymict lithic breccia
+337,2.318,1.096,,,,polymict lithic breccia
+337.5,2.288,1.092,,,,polymict lithic breccia
+338,2.257,1.088,,,,polymict lithic breccia
+338.5,2.248,1.092,,,,polymict lithic breccia
+339,2.239,1.097,,,,polymict lithic breccia
+339.5,2.23,1.101,728.719,,,polymict lithic breccia
+340,2.223,1.106,314.546,,,polymict lithic breccia
+340.5,2.217,1.14,-371.055,47.99,,polymict lithic breccia
+341,2.211,1.164,-670.942,48.051,,polymict lithic breccia
+341.5,2.204,1.188,-1070.773,48.111,,polymict lithic breccia
+342,2.198,1.195,-1556.317,48.171,,polymict lithic breccia
+342.5,2.192,1.203,-1689.5,48.231,,polymict lithic breccia
+343,2.19,1.21,-1822.683,48.291,,polymict lithic breccia
+343.5,2.188,1.228,-1757.497,48.351,100.224,polymict lithic breccia
+344,2.186,1.246,-1692.311,49.057,100.394,polymict lithic breccia
+344.5,2.184,1.264,-1627.125,49.763,100.564,polymict lithic breccia
+345,2.182,1.301,-1026.956,50.469,100.756,polymict lithic breccia
+345.5,2.208,1.337,-583.985,50.735,100.947,polymict lithic breccia
+346,2.233,1.414,-326.673,51.001,101.138,polymict lithic breccia
+346.5,2.286,1.477,-117.055,51.267,100.947,polymict lithic breccia
+347,2.338,1.477,-150.21,51.533,100.756,polymict lithic breccia
+347.5,2.344,1.477,-183.364,52.474,100.564,polymict lithic breccia
+348,2.35,1.477,-318.966,53.415,100.575,polymict lithic breccia
+348.5,2.356,1.469,-454.567,54.355,100.586,polymict lithic breccia
+349,2.333,1.462,-725.77,54.445,100.596,polymict lithic breccia
+349.5,2.31,1.426,-939.971,54.534,100.607,polymict lithic breccia
+350,2.224,1.389,-1154.172,54.624,100.494,polymict lithic breccia
+350.5,2.189,1.352,-1287.336,54.713,100.38,polymict lithic breccia
+351,2.185,1.35,-1420.5,53.717,100.267,polymict lithic breccia
+351.5,2.182,1.348,-1287.053,52.72,100.161,polymict lithic breccia
+352,2.179,1.387,-1153.607,51.723,100.054,polymict lithic breccia
+352.5,2.176,1.404,-1048.695,51.96,100.012,polymict lithic breccia
+353,2.172,1.421,-943.782,52.196,99.969,polymict lithic breccia
+353.5,2.169,1.438,-1238.87,52.433,99.927,polymict lithic breccia
+354,2.166,1.434,-1388.729,51.862,99.884,polymict lithic breccia
+354.5,2.186,1.431,-1538.587,51.291,100.278,polymict lithic breccia
+355,2.206,1.428,-1470.189,50.721,100.671,polymict lithic breccia
+355.5,2.231,1.388,-1401.791,50.15,101.064,polymict lithic breccia
+356,2.255,1.394,-1333.393,48.566,101.457,polymict lithic breccia
+356.5,2.232,1.399,-1392.738,46.982,101.967,polymict lithic breccia
+357,2.209,1.405,-1452.083,45.956,102.477,polymict lithic breccia
+357.5,2.315,1.378,-1273.398,44.93,102.615,polymict lithic breccia
+358,2.357,1.351,-1094.714,43.904,102.754,polymict lithic breccia
+358.5,2.359,1.364,-723.116,44.835,102.695,polymict lithic breccia
+359,2.361,1.377,-487.26,45.766,102.637,polymict lithic breccia
+359.5,2.363,1.391,-251.405,46.698,102.578,suevite
+360,2.303,1.406,-226.264,47.037,102.52,suevite
+360.5,2.309,1.42,-201.123,47.376,102.491,suevite
+361,2.315,1.454,-175.982,47.715,102.463,suevite
+361.5,2.321,1.449,-150.84,48.054,102.435,suevite
+362,2.328,1.444,-141.185,49.376,101.946,suevite
+362.5,2.334,1.438,-131.529,50.699,101.457,suevite
+363,2.359,1.446,-121.874,52.021,100.904,suevite
+363.5,2.384,1.453,-103.889,51.451,101.032,suevite
+364,2.407,1.46,-85.905,50.88,101.16,suevite
+364.5,2.429,1.462,-67.921,50.318,101.287,suevite
+365,2.403,1.465,-49.937,49.756,101.415,suevite
+365.5,2.378,1.467,264.575,49.194,101.575,suevite
+366,2.352,1.47,-85.312,48.631,101.736,suevite
+366.5,2.338,1.448,-435.199,48.069,101.896,suevite
+367,2.325,1.426,-1492.173,47.102,101.344,suevite
+367.5,2.312,1.321,-1879.532,46.135,100.791,suevite
+368,2.353,1.349,-2266.891,45.755,100.716,suevite
+368.5,2.394,1.416,-1682.31,45.375,100.64,suevite
+369,2.383,1.391,-1529.788,44.995,100.564,suevite
+369.5,2.372,1.366,-1377.266,44.067,100.734,suevite
+370,2.362,1.341,-948.525,43.138,100.904,suevite
+370.5,2.351,1.317,-801.956,42.21,101.075,polymict lithic breccia
+371,2.341,1.356,-655.386,38.924,101.188,polymict lithic breccia
+371.5,2.348,1.408,-551.645,35.579,101.301,polymict lithic breccia
+372,2.355,1.404,-447.904,31.178,101.415,polymict lithic breccia
+372.5,2.361,1.4,-333.506,25.719,101.075,polymict lithic breccia
+373,2.372,1.395,-219.107,22.022,100.734,polymict lithic breccia
+373.5,2.382,1.392,-104.708,22.992,99.856,polymict lithic breccia
+374,2.392,1.388,-97.424,23.962,99.544,polymict lithic breccia
+374.5,2.402,1.384,-90.14,24.932,99.927,polymict lithic breccia
+375,2.389,1.35,-225.713,25.903,100.309,polymict lithic breccia
+375.5,2.376,1.346,-361.286,26.873,100.423,polymict lithic breccia
+376,2.332,1.342,-439.698,27.843,100.536,polymict lithic breccia
+376.5,2.314,1.338,-518.109,28.813,100.649,polymict lithic breccia
+377,2.295,1.334,-496.524,29.783,100.671,polymict lithic breccia
+377.5,2.325,1.398,-474.938,30.753,100.692,polymict lithic breccia
+378,2.285,1.368,-453.353,31.724,100.713,polymict lithic breccia
+378.5,2.245,1.338,-490.74,32.694,100.734,suevite
+379,2.205,1.326,-528.127,33.664,100.785,suevite
+379.5,2.19,1.313,-565.514,29.321,100.836,suevite
+380,2.175,1.264,-602.901,30.438,100.887,suevite
+380.5,2.168,1.242,-636.061,31.555,100.938,suevite
+381,2.162,1.221,-669.22,24.512,100.99,suevite
+381.5,2.155,1.267,-702.379,25.218,101.082,suevite
+382,2.149,1.298,-735.538,25.924,101.174,suevite
+382.5,2.142,1.328,-698.525,26.63,101.266,suevite
+383,2.136,1.305,-661.512,27.336,101.358,suevite
+383.5,2.134,1.281,-624.499,31.565,101.32,suevite
+384,2.132,1.272,-587.486,35.442,101.282,suevite
+384.5,2.131,1.262,-534.955,39.671,101.245,suevite
+385,2.129,1.296,-482.423,41.257,101.181,suevite
+385.5,2.127,1.339,-429.892,42.843,101.117,suevite
+386,2.152,1.378,-349.745,44.841,101.053,suevite
+386.5,2.177,1.392,-269.598,46.839,100.99,suevite
+387,2.202,1.406,-189.451,48.837,100.904,suevite
+387.5,2.235,1.421,-109.305,52.361,100.819,suevite
+388,2.267,1.47,-29.158,53.772,100.734,suevite
+388.5,2.333,1.504,75.736,55.182,100.522,suevite
+389,2.373,1.534,180.63,55.389,100.309,suevite
+389.5,2.34,1.528,285.523,55.596,100.097,suevite
+390,2.308,1.522,571.407,55.803,99.884,suevite
+390.5,2.303,1.517,700.091,56.01,99.894,polymict lithic breccia
+391,2.299,1.506,828.776,56.892,99.903,polymict lithic breccia
+391.5,2.294,1.495,571.859,57.775,99.913,polymict lithic breccia
+392,2.282,1.484,243.4,58.129,99.896,polymict lithic breccia
+392.5,2.271,1.488,0.656,58.483,99.88,polymict lithic breccia
+393,2.259,1.491,-313.404,58.836,99.863,polymict lithic breccia
+393.5,2.317,1.495,-148.991,59.19,100.007,polymict lithic breccia
+394,2.218,1.474,15.422,59.035,100.15,polymict lithic breccia
+394.5,2.215,1.452,179.834,58.88,100.293,polymict lithic breccia
+395,2.213,1.43,344.247,58.725,100.437,polymict lithic breccia
+395.5,2.21,1.41,232.493,56.613,100.543,suevite
+396,2.208,1.389,120.739,54.941,100.649,suevite
+396.5,2.205,1.383,8.985,53.268,100.756,suevite
+397,2.203,1.377,-36.141,49.572,100.458,suevite
+397.5,2.2,1.371,-81.266,48.869,100.161,suevite
+398,2.201,1.377,-126.391,48.165,99.863,suevite
+398.5,2.203,1.382,-411.879,47.462,99.87,suevite
+399,2.204,1.388,-476.852,48.227,99.877,suevite
+399.5,2.205,1.403,-541.825,48.992,99.884,suevite
+400,2.206,1.418,-606.797,49.757,99.979,suevite
+400.5,2.205,1.402,-559.028,50.404,100.073,suevite
+401,2.204,1.386,-511.258,51.052,100.168,suevite
+401.5,2.202,1.37,-357.546,51.699,100.129,suevite
+402,2.201,1.372,-203.833,50.468,100.09,suevite
+402.5,2.199,1.374,-235.806,49.236,100.051,suevite
+403,2.197,1.375,-267.78,48.004,100.012,suevite
+403.5,2.202,1.437,-341.477,48.417,99.998,suevite
+404,2.206,1.456,-415.173,48.829,99.983,suevite
+404.5,2.211,1.474,-488.87,49.242,99.969,suevite
+405,2.225,1.467,-322.84,51.005,99.955,suevite
+405.5,2.24,1.459,-156.81,52.768,99.941,suevite
+406,2.255,1.44,9.22,51.87,99.851,suevite
+406.5,2.212,1.421,-30.3,50.971,99.762,suevite
+407,2.231,1.424,-69.819,50.072,99.672,suevite
+407.5,2.25,1.427,-109.338,49.242,99.757,suevite
+408,2.268,1.507,5.088,48.411,99.842,suevite
+408.5,2.261,1.555,119.515,47.581,99.927,suevite
+409,2.254,1.603,186.295,47.847,100.012,suevite
+409.5,2.265,1.584,253.075,48.113,99.969,suevite
+410,2.275,1.565,319.854,48.379,99.927,suevite
+410.5,2.286,1.489,320.024,48.322,99.792,suevite
+411,2.287,1.448,320.193,48.264,99.658,suevite
+411.5,2.288,1.359,421.925,48.207,99.523,suevite
+412,2.289,1.285,523.656,47.622,99.625,suevite
+412.5,2.283,1.263,625.388,47.036,99.726,suevite
+413,2.277,1.242,644.529,46.45,99.828,suevite
+413.5,2.271,1.23,663.671,44.47,99.79,suevite
+414,2.239,1.218,642.374,42.49,99.752,suevite
+414.5,2.207,1.217,621.078,42.58,99.714,suevite
+415,2.19,1.215,599.781,42.669,99.799,suevite
+415.5,2.172,1.214,546.379,42.758,99.884,monomict lithic breccia
+416,2.155,1.212,492.977,45.02,99.969,monomict lithic breccia
+416.5,2.137,1.223,393.137,47.282,100.012,monomict lithic breccia
+417,2.12,1.235,293.297,47.93,100.054,monomict lithic breccia
+417.5,2.108,1.246,300.59,48.578,100.508,monomict lithic breccia
+418,2.095,1.26,307.884,49.152,100.961,monomict lithic breccia
+418.5,2.083,1.274,24.644,49.726,101.415,monomict lithic breccia
+419,2.055,1.271,-258.595,50.299,102.435,monomict lithic breccia
+419.5,2.027,1.268,27.232,50.873,103.455,monomict lithic breccia
+420,2.007,1.264,208.448,50.698,103.944,monomict lithic breccia
+420.5,2.009,1.261,465.704,50.524,104.433,monomict lithic breccia
+421,2.011,1.261,665.817,50.349,104.071,monomict lithic breccia
+421.5,2.013,1.261,851.663,51.056,103.71,monomict lithic breccia
+422,2.018,1.261,1037.509,51.762,102.86,monomict lithic breccia
+422.5,2.023,1.26,1223.355,52.996,101.84,monomict lithic breccia
+423,2.028,1.259,1102.096,54.231,100.118,monomict lithic breccia
+423.5,2.043,1.257,980.837,52.764,99.502,monomict lithic breccia
+424,2.058,1.261,880.95,51.298,98.885,monomict lithic breccia
+424.5,2.073,1.264,781.063,49.832,98.921,monomict lithic breccia
+425,2.092,1.267,681.175,49.716,98.956,monomict lithic breccia
+425.5,2.111,1.269,655.136,49.601,98.992,monomict lithic breccia
+426,2.136,1.271,629.096,49.485,98.843,monomict lithic breccia
+426.5,2.16,1.274,603.056,49.369,98.694,monomict lithic breccia
+427,2.202,1.281,557.949,49.252,98.981,monomict lithic breccia
+427.5,2.229,1.289,512.843,49.136,99.268,monomict lithic breccia
+428,2.255,1.296,467.737,52.309,99.555,monomict lithic breccia
+428.5,2.331,1.312,282.178,53.279,99.842,monomict lithic breccia
+429,2.271,1.329,96.619,54.249,99.658,monomict lithic breccia
+429.5,2.428,1.361,-246.097,51.785,99.473,monomict lithic breccia
+430,2.484,1.406,-480.071,50.334,99.289,monomict lithic breccia
+430.5,2.391,1.451,-714.044,48.882,98.992,polymict lithic breccia
+431,2.427,1.429,-491.169,49.735,98.694,polymict lithic breccia
+431.5,2.463,1.432,-268.294,50.587,98.699,monomict lithic breccia
+432,2.458,1.435,-45.42,51.44,98.705,monomict lithic breccia
+432.5,2.452,1.438,240.52,54.084,98.71,monomict lithic breccia
+433,2.429,1.425,282.328,54.731,98.715,monomict lithic breccia
+433.5,2.405,1.412,324.136,55.378,98.609,monomict lithic breccia
+434,2.382,1.399,365.944,56.025,98.503,monomict lithic breccia
+434.5,2.358,1.368,407.752,56.35,98.397,monomict lithic breccia
+435,2.341,1.338,449.56,56.675,98.439,monomict lithic breccia
+435.5,2.323,1.331,491.367,56.999,98.482,monomict lithic breccia
+436,2.305,1.324,578.98,54.226,98.524,monomict lithic breccia
+436.5,2.298,1.317,666.593,51.454,98.556,monomict lithic breccia
+437,2.29,1.328,754.206,48.96,98.588,monomict lithic breccia
+437.5,2.282,1.338,841.819,46.467,98.62,monomict lithic breccia
+438,2.275,1.348,820.541,48.171,98.652,monomict lithic breccia
+438.5,2.267,1.358,799.263,49.875,98.779,monomict lithic breccia
+439,2.26,1.368,777.985,52.078,98.907,monomict lithic breccia
+439.5,2.252,1.378,809.069,54.281,99.034,monomict lithic breccia
+440,2.245,1.372,840.153,55.78,98.999,monomict lithic breccia
+440.5,2.237,1.365,871.238,57.278,98.963,monomict lithic breccia
+441,2.23,1.358,736.883,58.469,98.928,monomict lithic breccia
+441.5,2.219,1.352,602.529,59.66,98.722,monomict lithic breccia
+442,2.209,1.342,680.632,58.384,98.517,monomict lithic breccia
+442.5,2.199,1.333,758.735,57.109,98.312,monomict lithic breccia
+443,2.208,1.324,836.838,54.644,98.34,monomict lithic breccia
+443.5,2.216,1.315,914.942,51.475,98.368,monomict lithic breccia
+444,2.225,1.266,881.753,50.684,98.397,monomict lithic breccia
+444.5,2.218,1.242,848.564,49.893,98.822,monomict lithic breccia
+445,2.21,1.231,815.375,49.101,99.247,suevite
+445.5,2.232,1.221,820.293,48.061,99.325,suevite
+446,2.254,1.21,825.212,47.021,99.403,suevite
+446.5,2.311,1.199,830.131,47.16,99.48,suevite
+447,2.314,1.188,781.056,47.298,99.475,monomict lithic breccia
+447.5,2.318,1.177,731.982,47.437,99.47,monomict lithic breccia
+448,2.321,1.176,682.907,48.201,99.465,monomict lithic breccia
+448.5,2.32,1.176,625.934,48.966,99.459,monomict lithic breccia
+449,2.319,1.175,568.96,49.73,99.417,monomict lithic breccia
+449.5,2.318,1.177,618.298,49.761,99.374,monomict lithic breccia
+450,2.317,1.178,667.636,49.792,99.332,monomict lithic breccia
+450.5,2.317,1.179,716.974,49.823,99.289,monomict lithic breccia
+451,2.317,1.184,713.521,49.605,99.247,monomict lithic breccia
+451.5,2.317,1.189,710.067,49.387,99.204,monomict lithic breccia
+452,2.317,1.194,706.613,49.001,99.204,monomict lithic breccia
+452.5,2.317,1.199,703.159,48.615,99.204,monomict lithic breccia
+453,2.335,1.204,728.707,48.229,99.264,monomict lithic breccia
+453.5,2.353,1.209,754.254,47.843,99.323,monomict lithic breccia
+454,2.37,1.231,779.801,47.457,99.383,monomict lithic breccia
+454.5,2.388,1.252,787.882,47.488,99.442,monomict lithic breccia
+455,2.405,1.288,795.963,47.519,99.502,monomict lithic breccia
+455.5,2.423,1.334,804.044,47.55,99.516,monomict lithic breccia
+456,2.44,1.337,808.938,48.828,99.53,monomict lithic breccia
+456.5,2.458,1.34,813.831,50.107,99.544,monomict lithic breccia
+457,2.47,1.343,818.725,52.574,99.544,monomict lithic breccia
+457.5,2.481,1.346,615.295,54.512,99.544,monomict lithic breccia
+458,2.496,1.341,411.864,56.451,99.544,monomict lithic breccia
+458.5,2.511,1.335,406.788,57.597,99.544,monomict lithic breccia
+459,2.526,1.33,401.712,58.744,99.601,monomict lithic breccia
+459.5,2.541,1.326,396.636,58.687,99.658,monomict lithic breccia
+460,2.556,1.321,540.108,58.63,99.714,monomict lithic breccia
+460.5,2.57,1.317,683.581,58.573,99.728,monomict lithic breccia
+461,2.585,1.313,827.053,57.518,99.743,monomict lithic breccia
+461.5,2.599,1.309,831.179,56.462,99.757,monomict lithic breccia
+462,2.61,1.305,835.304,53.645,99.558,monomict lithic breccia
+462.5,2.621,1.306,839.429,50.653,99.36,monomict lithic breccia
+463,2.632,1.308,810.97,49.832,99.162,monomict lithic breccia
+463.5,2.633,1.309,782.512,49.011,99.204,monomict lithic breccia
+464,2.633,1.31,754.053,48.191,99.247,monomict lithic breccia
+464.5,2.633,1.322,725.595,49.514,99.289,monomict lithic breccia
+465,2.634,1.334,686.057,50.836,99.332,monomict lithic breccia
+465.5,2.631,1.348,646.518,52.042,99.24,monomict lithic breccia
+466,2.628,1.361,606.98,53.247,99.148,monomict lithic breccia
+466.5,2.625,1.375,569.035,54.452,99.055,monomict lithic breccia
+467,2.622,1.373,531.091,54.894,98.9,monomict lithic breccia
+467.5,2.602,1.372,493.146,55.335,98.744,monomict lithic breccia
+468,2.583,1.37,445.687,55.777,98.588,monomict lithic breccia
+468.5,2.569,1.388,398.228,54.369,98.63,monomict lithic breccia
+469,2.555,1.406,350.769,52.962,98.673,monomict lithic breccia
+469.5,2.541,1.425,363.28,51.555,98.715,monomict lithic breccia
+470,2.536,1.433,375.791,49.443,98.878,monomict lithic breccia
+470.5,2.531,1.442,388.301,47.331,99.041,polymict lithic breccia
+471,2.526,1.45,187.02,44.691,99.204,polymict lithic breccia
+471.5,2.521,1.459,230.802,48.039,99.242,polymict lithic breccia
+472,2.517,1.468,274.585,53.382,99.28,shale slate phyllite schist
+472.5,2.442,1.506,318.367,59.968,99.318,shale slate phyllite schist
+473,2.451,1.545,56.632,59.693,99.091,shale slate phyllite schist
+473.5,2.461,1.565,-205.103,59.417,98.864,shale slate phyllite schist
+474,2.47,1.585,-43.123,59.142,98.944,shale slate phyllite schist
+474.5,2.475,1.596,72.1,60.347,99.024,shale slate phyllite schist
+475,2.48,1.567,187.324,61.552,99.103,shale slate phyllite schist
+475.5,2.486,1.537,302.548,59.558,99.183,shale slate phyllite schist
+476,2.495,1.522,324.127,57.563,99.426,shale slate phyllite schist
+476.5,2.504,1.507,345.706,57.535,99.669,shale slate phyllite schist
+477,2.514,1.491,367.285,57.508,99.913,shale slate phyllite schist
+477.5,2.523,1.49,359.798,57.48,101.712,shale slate phyllite schist
+478,2.518,1.488,352.31,57.423,103.88,shale slate phyllite schist
+478.5,2.513,1.533,344.823,57.366,105.099,shale slate phyllite schist
+479,2.49,1.556,337.336,57.309,106.317,shale slate phyllite schist
+479.5,2.467,1.578,329.849,57.457,105.566,shale slate phyllite schist
+480,2.445,1.571,453.733,57.605,104.815,shale slate phyllite schist
+480.5,2.424,1.564,139.673,57.753,103.157,shale slate phyllite schist
+481,2.358,1.608,-217.328,61.102,101.096,shale slate phyllite schist
+481.5,2.329,1.603,-1513.644,62.101,100.444,shale slate phyllite schist
+482,2.3,1.598,-1145.702,63.1,99.792,metagreywacke
+482.5,2.301,1.592,-1630.063,64.1,99.14,metagreywacke
+483,2.301,1.565,-2114.425,64.826,99.253,metagreywacke
+483.5,2.301,1.538,-1259.536,65.551,99.366,metagreywacke
+484,2.301,1.514,347.748,66.277,99.478,metagreywacke
+484.5,2.305,1.491,520.522,65.789,100.967,metagreywacke
+485,2.309,1.431,693.297,65.301,102.456,shale slate phyllite schist
+485.5,2.313,1.384,661.692,64.813,106.402,shale slate phyllite schist
+486,2.302,1.378,630.087,63.611,108.471,shale slate phyllite schist
+486.5,2.292,1.372,598.482,62.409,109.448,shale slate phyllite schist
+487,2.281,1.366,170.038,60.884,105.339,shale slate phyllite schist
+487.5,2.298,1.43,-258.407,59.359,101.471,shale slate phyllite schist
+488,2.315,1.494,-758.209,51.436,101.287,shale slate phyllite schist
+488.5,2.328,1.455,-172.34,46.594,102.01,shale slate phyllite schist
+489,2.322,1.477,413.53,41.752,102.732,shale slate phyllite schist
+489.5,2.316,1.499,123.186,45.54,102.35,shale slate phyllite schist
+490,2.31,1.52,599.47,49.328,101.967,shale slate phyllite schist
+490.5,2.303,1.586,567.859,54.437,101.776,shale slate phyllite schist
+491,2.33,1.599,536.248,59.723,101.585,shale slate phyllite schist
+491.5,2.356,1.611,504.637,61.427,101.641,shale slate phyllite schist
+492,2.378,1.624,496.428,63.131,101.698,shale slate phyllite schist
+492.5,2.4,1.631,488.219,63.624,101.755,shale slate phyllite schist
+493,2.422,1.638,480.011,64.118,102.222,shale slate phyllite schist
+493.5,2.444,1.646,471.802,64.611,102.69,shale slate phyllite schist
+494,2.458,1.644,521.972,65.104,103.306,shale slate phyllite schist
+494.5,2.471,1.642,572.141,64.578,103.923,shale slate phyllite schist
+495,2.484,1.64,419.92,64.051,104.27,shale slate phyllite schist
+495.5,2.501,1.639,267.699,63.524,104.617,shale slate phyllite schist
+496,2.518,1.637,256.507,62.997,104.716,shale slate phyllite schist
+496.5,2.534,1.636,245.315,62.558,104.815,shale slate phyllite schist
+497,2.552,1.638,234.123,62.119,104.862,shale slate phyllite schist
+497.5,2.569,1.64,222.932,61.68,104.909,shale slate phyllite schist
+498,2.578,1.642,256.415,61.241,104.955,shale slate phyllite schist
+498.5,2.586,1.644,289.899,63.224,105.002,shale slate phyllite schist
+499,2.595,1.648,323.383,65.207,105.049,shale slate phyllite schist
+499.5,2.603,1.651,155.667,65.808,103.88,shale slate phyllite schist
+500,2.608,1.654,-12.049,66.408,102.69,shale slate phyllite schist
+500.5,2.613,1.661,176.197,67.008,101.755,shale slate phyllite schist
+501,2.618,1.668,364.443,67.609,101.425,shale slate phyllite schist
+501.5,2.62,1.668,416.918,68.209,101.096,shale slate phyllite schist
+502,2.622,1.668,290.925,67.741,100.851,shale slate phyllite schist
+502.5,2.625,1.668,164.932,67.273,100.607,shale slate phyllite schist
+503,2.622,1.668,85.68,66.805,100.203,shale slate phyllite schist
+503.5,2.618,1.668,6.428,66.337,99.799,shale slate phyllite schist
+504,2.615,1.669,-72.824,66.818,98.822,shale slate phyllite schist
+504.5,2.611,1.658,-305.988,67.299,98.859,shale slate phyllite schist
+505,2.591,1.647,-539.152,67.78,98.896,shale slate phyllite schist
+505.5,2.571,1.608,-764.039,68.251,98.933,shale slate phyllite schist
+506,2.557,1.593,-988.926,68.723,98.97,shale slate phyllite schist
+506.5,2.543,1.578,-438.7,69.194,99.067,shale slate phyllite schist
+507,2.528,1.55,29.284,67.838,99.164,shale slate phyllite schist
+507.5,2.523,1.55,497.268,66.481,99.261,shale slate phyllite schist
+508,2.517,1.55,704.552,65.125,99.384,shale slate phyllite schist
+508.5,2.511,1.55,720.736,63.769,99.506,shale slate phyllite schist
+509,2.506,1.55,736.921,63.653,99.629,shale slate phyllite schist
+509.5,2.52,1.529,753.105,63.537,99.573,metagreywacke
+510,2.534,1.509,769.29,63.871,99.516,metagreywacke
+510.5,2.509,1.494,761.341,64.206,99.459,metagreywacke
+511,2.51,1.48,753.393,64.54,98.907,metagreywacke
+511.5,2.512,1.449,745.444,63.573,98.354,metagreywacke
+512,2.514,1.481,737.496,62.605,98.269,metagreywacke
+512.5,2.496,1.514,729.547,58.732,98.184,shale slate phyllite schist
+513,2.479,1.47,774.927,54.33,98.099,shale slate phyllite schist
+513.5,2.429,1.483,820.306,49.575,98.005,shale slate phyllite schist
+514,2.43,1.496,434.761,44.294,97.91,shale slate phyllite schist
+514.5,2.431,1.509,120.588,42.886,97.816,shale slate phyllite schist
+515,2.432,1.525,-350.727,44.12,98.17,shale slate phyllite schist
+515.5,2.425,1.54,-1417.168,45.354,98.524,shale slate phyllite schist
+516,2.418,1.555,-494.436,49.701,98.715,shale slate phyllite schist
+516.5,2.411,1.564,428.296,51.405,98.907,shale slate phyllite schist
+517,2.404,1.572,785.608,53.109,98.609,shale slate phyllite schist
+517.5,2.391,1.581,891.938,57.69,98.312,shale slate phyllite schist
+518,2.377,1.595,998.267,62.8,98.014,shale slate phyllite schist
+518.5,2.364,1.609,1104.597,68.262,97.589,shale slate phyllite schist
+519,2.368,1.623,1029.521,70.024,97.164,shale slate phyllite schist
+519.5,2.371,1.624,954.445,71.786,97.065,shale slate phyllite schist
+520,2.374,1.626,879.369,72.434,96.965,shale slate phyllite schist
+520.5,2.377,1.628,836.624,73.081,96.866,shale slate phyllite schist
+521,2.378,1.62,793.88,70.03,97.114,shale slate phyllite schist
+521.5,2.378,1.613,751.136,67.566,97.362,shale slate phyllite schist
+522,2.379,1.605,612.02,62.812,97.643,shale slate phyllite schist
+522.5,2.393,1.598,472.903,60.744,97.924,shale slate phyllite schist
+523,2.407,1.591,607.137,58.676,98.205,shale slate phyllite schist
+523.5,2.421,1.584,741.371,60.116,98.285,shale slate phyllite schist
+524,2.424,1.577,875.604,61.555,98.365,shale slate phyllite schist
+524.5,2.427,1.572,875.604,62.995,98.444,shale slate phyllite schist
+525,2.43,1.567,,64.978,98.524,shale slate phyllite schist
+525.5,2.433,1.562,,66.961,98.524,shale slate phyllite schist
+526,2.424,1.557,,66.961,98.524,shale slate phyllite schist
+526.5,2.414,1.552,,,98.524,shale slate phyllite schist
+527,2.405,1.547,,,,shale slate phyllite schist
+527.5,2.381,1.543,,,,shale slate phyllite schist
+528,2.357,1.543,,,,shale slate phyllite schist
+528.5,2.343,1.543,,,,shale slate phyllite schist
+529,2.329,1.544,,,,shale slate phyllite schist
+529.5,2.315,1.544,,,,shale slate phyllite schist
+530,2.308,1.54,,,,shale slate phyllite schist
+530.5,2.3,1.536,,,,shale slate phyllite schist
+531,2.292,1.538,,,,shale slate phyllite schist
+531.5,2.284,1.54,,,,shale slate phyllite schist
+532,2.281,1.542,,,,shale slate phyllite schist
+532.5,2.279,1.544,,,,shale slate phyllite schist
+533,2.276,1.541,,,,shale slate phyllite schist
+533.5,2.274,1.537,,,,shale slate phyllite schist
+534,2.272,1.534,,,,shale slate phyllite schist
+534.5,2.269,1.52,,,,shale slate phyllite schist
+535,2.26,1.506,,,,shale slate phyllite schist
+535.5,2.251,1.49,,,,shale slate phyllite schist
+536,2.242,1.473,,,,shale slate phyllite schist
+536.5,2.234,1.456,,,,shale slate phyllite schist
+537,2.226,1.45,,,,shale slate phyllite schist
+537.5,2.218,1.443,,,,shale slate phyllite schist
+538,2.211,1.436,,,,shale slate phyllite schist
+538.5,2.204,1.441,,,,shale slate phyllite schist
+539,2.198,1.445,,,,shale slate phyllite schist
+539.5,2.192,1.499,,,,shale slate phyllite schist
+540,2.204,1.545,,,,shale slate phyllite schist
+540.5,2.216,1.591,,,,shale slate phyllite schist
+541,2.228,1.618,,,,shale slate phyllite schist
+541.5,2.244,1.638,,,,shale slate phyllite schist
+542,2.26,1.658,,,,shale slate phyllite schist
+542.5,2.276,1.665,,,,shale slate phyllite schist
+543,2.286,1.672,,,,shale slate phyllite schist
+543.5,2.295,1.678,,,,shale slate phyllite schist
+544,2.304,1.678,,,,shale slate phyllite schist
+544.5,2.304,,,,,shale slate phyllite schist
